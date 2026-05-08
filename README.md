@@ -1,4 +1,4 @@
-# pose_with_images
+# PoseDetectionApp
 
 A new Flutter project.
 
